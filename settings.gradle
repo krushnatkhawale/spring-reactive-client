@@ -1,0 +1,4 @@
+rootProject.name = 'spring-reactive-client'
+
+
+include 'app-non-blocking'
